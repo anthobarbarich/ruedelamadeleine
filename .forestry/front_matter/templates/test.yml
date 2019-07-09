@@ -22,3 +22,5 @@ fields:
       required: false
     label: description
   label: coll
+pages:
+- content/robe.md
