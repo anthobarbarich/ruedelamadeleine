@@ -20,5 +20,15 @@ fields:
     max: 
     labelField: 
   label: vetement
+- name: introtxt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: introtxt
+  description: Texte d'introduction
 pages:
 - content/_index.md.md
