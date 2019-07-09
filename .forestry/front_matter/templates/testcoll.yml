@@ -21,4 +21,4 @@ fields:
     labelField: 
   label: vetement
 pages:
-- content/collection.md
+- content/_index.md.md
