@@ -7,3 +7,5 @@ fields:
   config: {}
   label: collection
   description: Ensemble des pièces
+pages:
+- content/testcollection.md
