@@ -21,7 +21,7 @@
 </head>
 <body class="body">
   <div class="hero"><img src="images/suiss.JPG" width="307" srcset="images/suiss-p-500.jpeg 500w, images/suiss.JPG 646w" sizes="(max-width: 479px) 100vw, 307px" alt="" class="image">
-    <div class="text-block">{{ .Content }}</div>
+    <div class="text-block">{{ .Params.introtxt }}</div>
   </div>
   <div class="container w-container">
 	  {{ range .Params.vetement }}
