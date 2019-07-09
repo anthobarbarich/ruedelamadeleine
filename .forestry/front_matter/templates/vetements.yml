@@ -14,5 +14,3 @@ fields:
     required: false
   label: description
   description: Description de la pièce
-pages:
-- content/robenoire.md
