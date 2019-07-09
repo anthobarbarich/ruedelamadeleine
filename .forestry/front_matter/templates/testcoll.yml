@@ -1,6 +1,6 @@
 ---
 label: testcoll
-hide_body: true
+hide_body: false
 fields:
 - name: vetement
   type: field_group_list
