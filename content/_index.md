@@ -8,3 +8,4 @@ description = "Robe noire"
 photo = "/uploads/IMG_9087-p-500.jpeg"
 
 +++
+handmade apparel confectioned in Liège
