@@ -1,4 +1,24 @@
 ---
 label: TEST
 hide_body: false
-fields: []
+fields:
+- name: coll
+  type: field_group
+  config: {}
+  fields:
+  - name: nom
+    type: text
+    config:
+      required: false
+    label: nom
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: image
+  - name: description
+    type: text
+    config:
+      required: false
+    label: description
+  label: coll
