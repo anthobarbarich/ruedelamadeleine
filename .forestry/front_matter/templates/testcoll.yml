@@ -1,4 +1,22 @@
 ---
 label: testcoll
 hide_body: true
-fields: []
+fields:
+- name: vetement
+  type: field_group_list
+  fields:
+  - name: photo
+    type: file
+    config:
+      maxSize: 250
+    label: photo
+  - name: description
+    type: text
+    config:
+      required: false
+    label: description
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: vetement
