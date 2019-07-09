@@ -20,3 +20,5 @@ fields:
     max: 
     labelField: 
   label: vetement
+pages:
+- content/robenoire-1.md
