@@ -1,4 +1,9 @@
 ---
 label: collection
 hide_body: false
-fields: []
+fields:
+- name: collection
+  type: image_gallery
+  config: {}
+  label: collection
+  description: Ensemble des pièces
