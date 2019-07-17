@@ -1,6 +1,9 @@
 +++
 introtxt = "handmade apparel confectioned in Liège"
 [[vetement]]
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+photo = "uploads/620077821730155345_IMG_3972-p-500.jpeg"
+[[vetement]]
 description = "Ensemble mariage "
 photo = "uploads/IMG_6683-p-500.jpeg"
 [[vetement]]
