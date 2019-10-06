@@ -15,6 +15,9 @@ fields:
     config:
       required: false
     label: description
+  - name: featured
+    type: boolean
+    label: featured
   config:
     min: 
     max: 
