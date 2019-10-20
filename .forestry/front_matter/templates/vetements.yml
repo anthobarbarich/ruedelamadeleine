@@ -2,15 +2,29 @@
 label: Vêtements
 hide_body: true
 fields:
-- name: photo
-  type: file
+- name: titre
+  type: text
   config:
-    maxSize: 250
-  label: photo
-  description: Photo de la pièce
+    required: false
+  label: titre
 - name: description
   type: text
   config:
     required: false
   label: description
   description: Description de la pièce
+- name: photo
+  type: file
+  config:
+    maxSize: 250
+  label: photo
+  description: Photo de la pièce
+- name: prix
+  type: text
+  config:
+    required: false
+  label: prix
+- name: gallerie
+  type: image_gallery
+  config: {}
+  label: gallerie
