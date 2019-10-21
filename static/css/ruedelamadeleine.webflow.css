@@ -9,6 +9,9 @@
   text-align: center;
 }
 
+a {
+	color: black;
+}
 a:visited { color:black;}
 .text-block {
   display: block;
