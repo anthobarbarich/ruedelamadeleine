@@ -1,12 +1,16 @@
 +++
 galerie = []
 photo = "uploads/IMG_9373.JPG"
-text = "procédé"
+text = " Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêtement et les mettre sur papier, ça me permet de les rappeler."
 title = "process"
 [[step]]
 description = "L’idée : tout d’abord, il faut avoir une (bonne) idée de modèle\n\nLa création : il faut alors créer un patron, le dessiner, le découper, le tester (pour ça, on fait généralement un test, une \"toile d’essai\") et généralement, l’adapter.\n\nLe tissu : ensuite, il faut trouver le tissu qui correspond au projet."
 nom = "1. Conception du vêtement"
 photo = "uploads/IMG_9373.JPG"
+[[step]]
+description = "Découpe : une fois qu’on a un patron définitif, on peut découper le tissu.\nCouture : on passe enfin à l’étape couture (surfilage, assemblage, finitions, etc.)."
+nom = "2. Couture"
+photo = ""
 
 +++
 Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêtement et les mettre sur papier, ça me permet de les rappeler.
