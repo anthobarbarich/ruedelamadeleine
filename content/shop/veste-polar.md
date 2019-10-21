@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 gallerie = []
 photo = "uploads/claraperiod (1).jpg"
 prix = ""
