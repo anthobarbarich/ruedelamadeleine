@@ -54,9 +54,15 @@ h3 {
 
 .block50 img {
 max-width: 80%;
-	margin-top: 20px;
-}
 
+}
+a.order { 
+text-align: left;
+display: block;}
+
+.item {
+	text-decoration: none;
+}
 .flex {
 	display: flex;
 	
@@ -70,6 +76,10 @@ max-width: 80%;
 
 .rowpictures {
   margin-bottom: 56px;
+}
+
+.price {
+	font-size: 1.3em;
 }
 
 .image {

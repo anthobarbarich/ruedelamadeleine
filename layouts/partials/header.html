@@ -22,7 +22,7 @@
 	  
 	  <nav>
 		  <a href="/">shop</a>
-		  {{ range $.Site.Pages}}
+		  {{ range $.Site.RegularPages}}
 		  <a href="/{{.Title}}">{{.Title}}</a>
 	  	 {{end}}	  
 	  </nav>
