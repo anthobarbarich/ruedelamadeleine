@@ -1,0 +1,13 @@
+---
+label: process
+hide_body: false
+fields:
+- type: text
+  name: photo
+  label: photo
+- type: text
+  name: text
+  label: text
+- type: text
+  name: title
+  label: title
