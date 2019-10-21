@@ -4,7 +4,7 @@ text = "procédé"
 title = "process"
 
 +++
-Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêtement et le mettre sur papier, ça me permet de les rappeler.
+Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêtement et les mettre sur papier, ça me permet de les rappeler.
 
 1. **Conception du vêtement** 
    * L’idée : tout d’abord, il faut avoir une (bonne) idée de modèle
