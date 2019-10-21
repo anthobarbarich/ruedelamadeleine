@@ -28,7 +28,3 @@ fields:
   type: image_gallery
   config: {}
   label: gallerie
-pages:
-- content/shop/bomber-rose.md
-- content/shop/file.md
-- content/shop/file-1.md
