@@ -16,8 +16,8 @@ Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêteme
 
 Ça c’est pour la conception du vêtement, mais il y a aussi plein d’autres aspects qui entrent en compte si on veut vendre un vêtement : il faut avoir un site web, passer du temps à faire sa promo sur les réseaux sociaux, faire des photos et les éditer, etc. L’étape couture est celle qui prend le plus de temps mais c’est donc loin d’être la seule !
 
-Voilà donc ma réponse pour ceux qui pensent que lorsque je couds une pièce en trois heures, je peux la vendre à 30€ (et encore, on n’a pas parlé du coût du travail en Belgique… qui est loin de 10€/h). Bref, impossible de comprendre comment on peut vendre un t-shirt à 10€ avec tout ce travail derrière… A moins d’utiliser les gens qui font ce travail comme des machines. Si je désirai produire en grandes quantités le même modèle, je pourrais sûrement faire des économies de temps... mais l'idée, n’est pas non plus de devenir une machine moi-même.
+Voilà donc ma réponse pour ceux qui pensent que lorsque je couds une pièce en trois heures, je peux la vendre à 30€ (et encore, on n’a pas parlé du coût du travail en Belgique qui est loin de 10€/h). Bref, impossible de comprendre comment on peut vendre un t-shirt à 10€ avec tout ce travail derrière... A moins d’utiliser les gens qui font ce travail comme des machines. Si je désirai produire en grandes quantités le même modèle, je pourrais sûrement faire des économies de temps mais l'idée, n’est pas non plus de devenir une machine moi-même.
 
 Ce que je propose ici, ce sont donc des vêtements que j’ai conçus et cousus. C’est des vêtements que je couds comme si je les faisais pour moi, en me réjouissant à chaque étape de voir le produit fini et de le voir porté.
 
-PS : un autre truc qui m’a pris un temps fou : oser écrire ces trucs et les publier (j’y suis pas encore). C’est dur le regard des autres mais il parait que les gens adorent le « story telling ».
+PS : un autre truc qui m’a pris un temps fou : oser écrire ces trucs et les publier (je n’y suis pas encore). C’est dur le regard des autres mais il parait que les gens adorent le « story telling ».
