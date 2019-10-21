@@ -4,6 +4,6 @@ gallerie = []
 photo = "uploads/D6D0F589-CE51-4369-B590-02F583588354.jpg"
 prix = "120€"
 title = ""
-titre = "N°163 - Bomber 2"
+titre = "N°163 - Tunique 2"
 
 +++

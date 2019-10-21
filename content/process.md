@@ -6,11 +6,11 @@ title = "process"
 +++
 Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêtement et le mettre sur papier, ça me permet de les rappeler.
 
-1. Conception du vêtement 
+1. **Conception du vêtement** 
    * L’idée : tout d’abord, il faut avoir une (bonne) idée de modèle
    * La création : il faut alors créer un patron, le dessiner, le découper, le tester (pour ça, on fait généralement un test, une « toile d’essai ») et généralement, l’adapter.
    * Le tissu : ensuite, il faut trouver le tissu qui correspond au projet.
-2. Couture
+2. **Couture**
    * Découpe : une fois qu’on a un patron définitif, on peut découper le tissu.
    * Couture : on passe enfin à l’étape couture (surfilage, assemblage, finitions, etc.).
 
