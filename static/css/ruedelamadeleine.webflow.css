@@ -56,12 +56,24 @@ h3 {
 max-width: 80%;
 
 }
+
+.left {
+	text-align: left; 
+}
 a.order { 
 text-align: left;
-display: block;}
+display: inline-block;
+background: black;
+color: white;
+text-decoration: none;
+padding: 10px 20px;
+}
 
 .item {
 	text-decoration: none;
+}
+.item:hover {
+opacity: 0.7;
 }
 .flex {
 	display: flex;
