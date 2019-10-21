@@ -29,7 +29,7 @@ fields:
   config: {}
   label: gallerie
 pages:
-- content/shop/file-2.md
 - content/shop/sweat.md
 - content/shop/bomber.md
 - content/shop/robe-chemise.md
+- content/shop/pantalon.md
