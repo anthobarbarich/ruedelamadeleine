@@ -7,17 +7,11 @@
   </url>
   
   <url>
-    <loc>ruedelamadeleine.be/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>ruedelamadeleine.be/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>ruedelamadeleine.be/about/</loc>
+  </url>
+  
+  <url>
+    <loc>ruedelamadeleine.be/process/</loc>
   </url>
   
 </urlset>

@@ -1,12 +1,11 @@
-{{ partial "header.html"}}
-    <div class="text-block"></div>
+{{ partial "header.html" . }}    <div class="text-block"></div>
   </div>
-  <div class="container w-container">
+  <div class="container w-container flex">
+	  <div class="block50">
+<img src="{{.Params.photo}}">
+	</div>
+	 <div class="block50">
 <p class="content-txt">{{.Content | markdownify}}</p>
+	</div>
   </div>
-  <div class="footer">
-    <div class="footertxt">Want to order one of these? <a href="mailto:claranoirhomme@gmail.com?subject=rue%20de%20la%20Madeleine%20website" class="link">claranoirhomme@gmail.com</a><br>‍<br>2019, rue de la Madeleine</div>
-  </div>
-  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-</body>
-</html>
+{{ partial "footer.html" . }}

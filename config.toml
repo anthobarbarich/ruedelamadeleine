@@ -1,3 +1,8 @@
 baseURL = "ruedelamadeleine.be"
 languageCode = "en-us"
 title = "rue de la madeleine"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+[params]
+  author = "Clara Noirhomme"
+  description = "Tesla's Awesome Hugo Site"

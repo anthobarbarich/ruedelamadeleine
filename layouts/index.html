@@ -1,5 +1,4 @@
-{{ partial "header.html"}}
-    <div class="text-block">{{ .Params.introtxt }}</div>
+{{ partial "header.html" . }}
   </div>
   <div class="container w-container">
 	  {{ range .Params.vetement }}
@@ -7,9 +6,5 @@
       <div class="description">{{ .description }}</div>
     </div>{{ end }}
   </div>
-  <div class="footer">
-    <div class="footertxt">Want to order one of these? <a href="mailto:claranoirhomme@gmail.com?subject=rue%20de%20la%20Madeleine%20website" class="link">claranoirhomme@gmail.com</a><br>‍<br>2019, rue de la Madeleine</div>
-  </div>
-  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-</body>
-</html>
+{{ partial "footer.html" . }}
+ 

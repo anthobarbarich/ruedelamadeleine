@@ -1,6 +1,6 @@
 .hero {
   height: 100%;
-  margin-bottom: 16px;
+  margin-bottom: 40px;
   padding-top: 42px;
 }
 
@@ -11,8 +11,6 @@
 
 .text-block {
   display: block;
-  margin-top: -2px;
-  margin-bottom: 70px;
   padding: 9px 44px 30px;
   background-color: transparent;
   color: #353535;
@@ -34,6 +32,15 @@
 
 .img {
   margin-bottom: 10px;
+}
+
+.block50{
+	width: 49%;
+}
+
+.block50 p {
+	text-align:left;
+	line-height: 1.8em;
 }
 
 .img.rotate {
