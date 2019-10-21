@@ -22,5 +22,5 @@ fields:
     maxSize: 250
   label: photo
 pages:
-- content/about.md
 - content/process.md
+- content/about.md
