@@ -38,3 +38,5 @@ fields:
     max: 
     labelField: 
   label: step
+pages:
+- content/process.md
