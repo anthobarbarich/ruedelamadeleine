@@ -1,4 +1,4 @@
-baseURL = "ruedelamadeleine.be"
+baseURL = "https://ruedelamadeleine.be/"
 languageCode = "en-us"
 title = "rue de la madeleine"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
