@@ -1,11 +1,8 @@
 {{ partial "header.html"}}
-    <div class="text-block">{{ .Params.introtxt }}</div>
+    <div class="text-block"></div>
   </div>
   <div class="container w-container">
-	  {{ range .Params.vetement }}
-    <div class="item"><img src="{{ .photo }}" alt="{{ .description }}" class="img">
-      <div class="description">{{ .description }}</div>
-    </div>{{ end }}
+<p class="content-txt">{{.Content | markdownify}}</p>
   </div>
   <div class="footer">
     <div class="footertxt">Want to order one of these? <a href="mailto:claranoirhomme@gmail.com?subject=rue%20de%20la%20Madeleine%20website" class="link">claranoirhomme@gmail.com</a><br>‍<br>2019, rue de la Madeleine</div>
