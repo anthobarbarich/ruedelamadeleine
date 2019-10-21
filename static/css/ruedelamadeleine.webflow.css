@@ -43,6 +43,10 @@
 	line-height: 1.8em;
 }
 
+.flex {
+	display: flex;
+	
+}
 .img.rotate {
   margin-top: 40px;
   -webkit-transform: rotate(90deg);
@@ -172,5 +176,10 @@
   .description {
     margin-top: 0px;
   }
+	.block50 { width: 90%;}
+	.flex {
+	flex-direction: row;
+	
+}
 }
 
