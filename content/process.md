@@ -8,7 +8,7 @@ Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêteme
 
 1. **Conception du vêtement** 
    * L’idée : tout d’abord, il faut avoir une (bonne) idée de modèle
-   * La création : il faut alors créer un patron, le dessiner, le découper, le tester (pour ça, on fait généralement un test, une « toile d’essai ») et généralement, l’adapter.
+   * La création : il faut alors créer un patron, le dessiner, le découper, le tester (pour ça, on fait généralement un test, une "toile d’essai") et généralement, l’adapter.
    * Le tissu : ensuite, il faut trouver le tissu qui correspond au projet.
 2. **Couture**
    * Découpe : une fois qu’on a un patron définitif, on peut découper le tissu.
