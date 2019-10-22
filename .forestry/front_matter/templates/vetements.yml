@@ -30,9 +30,9 @@ fields:
   label: gallerie
 pages:
 - content/shop/sweat.md
+- content/shop/veste-polar.md
 - content/shop/bomber.md
 - content/shop/robe-chemise.md
-- content/shop/veste-polar.md
 - content/shop/pantalon.md
 - content/shop/sweat-leger.md
 - content/shop/pantalonbleu.md
