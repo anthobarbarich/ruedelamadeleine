@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+  </div>
+{{ range .Params.step }}
+  <div class="container w-container flex">
+
+	  <div class="block50">
+{{ with .photo }}
+    {{ with ($.Site.GetPage (path.Dir .)).Resources.GetMatch (path.Base .) }}
+        {{ $r := .Resize "400x q70" }}
+        <img src="{{ $r.RelPermalink }}">
+    {{ end }}
+{{ end }}		
+		</div>
+	 <div class="block50"><h3>{{.nom}}</h3>
+<p class="content-txt">{{.description}}</p>
+	</div>
+  </div><br><br>{{end}}
+{{ partial "footer.html" . }}

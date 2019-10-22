@@ -79,6 +79,11 @@ opacity: 0.7;
 	display: flex;
 	
 }
+
+.flex:nth-child(even) {
+    flex-direction: row-reverse;
+    text-align: right;
+}
 .img.rotate {
   margin-top: 40px;
   -webkit-transform: rotate(90deg);
