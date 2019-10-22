@@ -1,12 +1,20 @@
 {{ partial "header.html" . }}
   </div>
   <div class="container w-container">
-	  {{range shuffle (where .Site.RegularPages "Section" "==" "shop")}}
-    <a href="{{.Permalink}}" class="item"><img src="{{ .Params.photo }}" alt="{{ .Params.description }}" class="img">
+
+	  
+	 {{range shuffle (where .Site.RegularPages "Section" "==" "shop")}}
+    <a href="{{.Permalink}}" class="item">
+		{{ with .Params.photo }}
+    {{ with ($.Site.GetPage (path.Dir .)).Resources.GetMatch (path.Base .) }}
+        {{ $r := .Resize "300x q70" }}
+        <img src="{{ $r.RelPermalink }}">
+    {{ end }}
+{{ end }}
+		
       <div class="description">{{ .Params.titre }}</div>
     </a>
-	  
 	  {{end}}
-  </div>
+</div>
 {{ partial "footer.html" . }}
  

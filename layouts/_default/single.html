@@ -2,8 +2,12 @@
   </div>
   <div class="container w-container flex">
 	  <div class="block50">
-<img src="/{{.Params.photo}}">
-	</div>
+{{ with .Params.photo }}
+    {{ with ($.Site.GetPage (path.Dir .)).Resources.GetMatch (path.Base .) }}
+        {{ $r := .Resize "400x q70" }}
+        <img src="{{ $r.RelPermalink }}">
+    {{ end }}
+{{ end }}		</div>
 	 <div class="block50">
 <p class="content-txt">{{.Content | markdownify}}</p>
 	</div>
