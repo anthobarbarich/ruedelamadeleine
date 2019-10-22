@@ -3,6 +3,6 @@ description = "Le bomber n°33 est une veste légère en toile avec une ceinture
 gallerie = []
 photo = "/uploads/74345302_535660507198715_6789684030380965888_n.jpg"
 prix = "150€"
-titre = "N°33 - Bomber"
+titre = "N°33 - Bomber toile de jouy"
 
 +++
