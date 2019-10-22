@@ -1,12 +1,12 @@
 {{ partial "header.html" . }}
   </div>
 {{ range .Params.step }}
-  <div class="container w-container flex">
+  <div class="container w-container flex" style="margin-bottom:20px;">
 
 	  <div class="block50">
 {{ with .photo }}
     {{ with ($.Site.GetPage (path.Dir .)).Resources.GetMatch (path.Base .) }}
-        {{ $r := .Resize "400x q70" }}
+        {{ $r := .Resize "500x q70" }}
         <img src="{{ $r.RelPermalink }}">
     {{ end }}
 {{ end }}		
