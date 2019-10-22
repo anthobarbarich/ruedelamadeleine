@@ -12,6 +12,10 @@ photo = "uploads/IMG_9373.JPG"
 description = "Découpe : une fois qu’on a un patron définitif, on peut découper le tissu.\nCouture : on passe enfin à l’étape couture (surfilage, assemblage, finitions, etc.)."
 nom = "2. Couture"
 photo = ""
+[[step]]
+description = "Ça c’est pour la conception du vêtement, mais il y a aussi plein d’autres aspects qui entrent en compte si on veut vendre un vêtement : il faut avoir un site web, passer du temps à faire sa promo sur les réseaux sociaux, faire des photos et les éditer, etc. L’étape couture est celle qui prend le plus de temps mais c’est donc loin d’être la seule !"
+nom = "3. Promotion & Communication"
+photo = "/uploads/IMG_9463.JPG"
 
 +++
 Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêtement et les mettre sur papier, ça me permet de les rappeler.
