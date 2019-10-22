@@ -38,5 +38,11 @@ fields:
     max: 
     labelField: 
   label: step
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  default: process
 pages:
 - content/process.md
