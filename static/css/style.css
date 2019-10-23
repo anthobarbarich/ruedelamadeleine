@@ -245,6 +245,9 @@ a.order {
     text-align: right;
 }
 
+.price {
+    font-size: 1.3em;
+}
 .item {
   width: 30%;
   margin-right: 15px;
