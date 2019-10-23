@@ -79,6 +79,11 @@ opacity: 0.7;
 	display: flex;
 	
 }
+
+.flex:nth-child(odd) {
+    flex-direction: row-reverse;
+    text-align: right;
+}
 .img.rotate {
   margin-top: 40px;
   -webkit-transform: rotate(90deg);
@@ -119,6 +124,7 @@ opacity: 0.7;
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
+	margin-top: 70px;
 }
 
 .item {
@@ -157,7 +163,9 @@ opacity: 0.7;
   margin-top: 7px;
 }
 
-.
+.container {
+	max-width: 1000px;
+}
 
 @media (max-width: 991px) {
   .item {
@@ -177,8 +185,12 @@ opacity: 0.7;
   .body {
     text-align: center;
   }
+	.container {
+
+	margin-top: 10px;
+}
+
   .text-block {
-    margin-bottom: 24px;
     padding-top: 3px;
     padding-right: 4px;
     padding-left: 0px;
