@@ -441,7 +441,6 @@ input, textarea {
 	/** Default lightbox to hidden */
 	font-family: space mono;
 	display: none;
-
 	/** Position and style */
 	position: fixed;
 	z-index: 999;
@@ -451,8 +450,6 @@ input, textarea {
 	top: 0;
 	left: 0;
 	background: rgba(0,0,0,0.8);
-	  overflow: scroll;
-    -webkit-overflow-scrolling: touch;
 }
 
 .lightbox svg {
