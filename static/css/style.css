@@ -451,6 +451,8 @@ input, textarea {
 	top: 0;
 	left: 0;
 	background: rgba(0,0,0,0.8);
+	  overflow: scroll;
+    -webkit-overflow-scrolling: touch;
 }
 
 .lightbox svg {
