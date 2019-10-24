@@ -444,3 +444,8 @@ a.order {
 	/** Unhide lightbox **/
 	display: block;
 }
+
+input, textarea {
+	width: 320px;
+	padding: 10px;
+}
