@@ -20,13 +20,13 @@
 		 <a href="/">← Go Back</a>
 	</div>
 	<!-- lightbox container hidden with CSS -->
-<div  class="lightbox" id="img1">
-  <form name="commande" method="post" netlify><br>
+<div class="lightbox" id="img1">
+  <form name="commande" method="POST" data-netlify="true"><br>
  <p>Les pièces n'étant réalisées que sur commande, la fonctionnalité d'achat direct en ligne n'est pas disponible. Suite à ce message, je vous recontacterai pour avoir les détails nécéssaires à la réalisation de la pièce. Merci !</p><br>
 	    <input type="text" name="lastname" value="Votre Nom"><br><br>
   <input type="email" name="mail" value="Votre adresse e-mail">
   <br><br>
-	  <textarea name="piece" rows="10" columns="10">Bonjour, je suis intéressé(e) par la pièce {{.Params.titre}}, puis-je vous la commander ? Merci</textarea><br>
+	  <textarea name="piece" rows="8" columns="10">Bonjour, je suis intéressé(e) par la pièce {{.Params.titre}}, puis-je vous la commander ? Merci</textarea><br>
   <br>
   <input type="submit" class="order" value="envoyer">
 </form>
