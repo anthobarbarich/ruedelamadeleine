@@ -1,38 +1,44 @@
 {{ partial "header.html" . }}
-  </div>
-  <div class="container w-container flex">
-	  <div class="block50">
-{{ with .Params.photo }}
-    {{ with ($.Site.GetPage (path.Dir .)).Resources.GetMatch (path.Base .) }}
-        {{ $r := .Resize "400x q80" }}
-        <img src="{{ $r.RelPermalink }}">
-    {{ end }}
-{{ end }}	</div>
-	 <div class="block50 left">
-<h2>{{.Params.titre}}</h2>
-<p class="content-txt">{{.Params.description}}</p><br>
-<p class="price">{{.Params.prix}}</p><br>		 
-<!-- thumbnail image wrapped in a link -->
-<a href="#img1" class="order">Commander</a>
-		 <br><br>		 <br><br>
-
-
-		 <a href="/">← Go Back</a>
-	</div>
-	<!-- lightbox container hidden with CSS -->
-<div class="lightbox" id="img1">
-  <form name="commande" method="POST" data-netlify="true"><br>
- <p>Les pièces n'étant réalisées que sur commande, la fonctionnalité d'achat direct en ligne n'est pas disponible. Suite à ce message, je vous recontacterai pour avoir les détails nécéssaires à la réalisation de la pièce. Merci !</p><br>
-	    <input type="text" name="lastname" value="Votre Nom"><br><br>
-  <input type="email" name="mail" value="Votre adresse e-mail">
-  <br><br>
-	  <textarea name="piece" rows="8" columns="10">Bonjour, je suis intéressé(e) par la pièce {{.Params.titre}}, puis-je vous la commander ? Merci</textarea><br>
-  <br>
-  <input type="submit" class="order" value="envoyer">
-</form>
-<a href="#_">
-  <svg xmlns="http://www.w3.org/2000/svg" width="74" height="74" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
-</a>
 </div>
-  </div>
-{{ partial "footer.html" . }}
+<div class="container w-container flex">
+  <div class="block50"> {{ with .Params.photo }}
+    {{ with ($.Site.GetPage (path.Dir .)).Resources.GetMatch (path.Base .) }}
+    {{ $r := .Resize "400x q80" }} <img src="{{ $r.RelPermalink }}"> {{ end }}
+    {{ end }} </div>
+  <div class="block50 left">
+    <h2>{{.Params.titre}}</h2>
+    <p class="content-txt">{{.Params.description}}</p>
+    <br>
+    <p class="price">{{.Params.prix}}</p>
+    <br>
+    <!-- thumbnail image wrapped in a link --> 
+    <a href="#img1" class="order">Commander</a> <br>
+    <br>
+    <br>
+    <br>
+    <a href="/">← Go Back</a> </div>
+  <!-- lightbox container hidden with CSS -->
+  <div class="lightbox" id="img1">
+    <form name="commande" method="POST" data-netlify="true">
+      <br>
+      <p>Les pièces n'étant réalisées que sur commande, la fonctionnalité d'achat direct en ligne n'est pas disponible. Suite à ce message, je vous recontacterai pour avoir les détails nécéssaires à la réalisation de la pièce. Merci !</p>
+      <br>
+      <input type="text" name="lastname" placeholder="Votre Nom">
+      <br>
+      <br>
+      <input type="email" name="mail" placeholder="Votre adresse e-mail">
+      <br>
+      <br>
+      <textarea name="piece" rows="6" columns="10">Bonjour, je suis intéressé(e) par la pièce {{.Params.titre}}, puis-je vous la commander ? Merci</textarea>
+      <br>
+      <br>
+      <input type="submit" class="order" value="envoyer">
+    </form>
+    <a href="#_">
+    <svg xmlns="http://www.w3.org/2000/svg" width="74" height="74" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="18" y1="6" x2="6" y2="18"></line>
+      <line x1="6" y1="6" x2="18" y2="18"></line>
+    </svg>
+    </a> </div>
+</div>
+{{ partial "footer.html" . }} 
