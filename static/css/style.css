@@ -17,7 +17,7 @@ body {
 footer,main,nav,summary {
   display: block;
 }
-
+s
 
 [hidden] {
   display: none;
@@ -139,6 +139,22 @@ p {
   .w-container {
     max-width: none;
   }
+}
+
+input.order {
+    color: white;
+    background-color: black;
+    border: 0;
+	cursor: pointer;
+
+}
+
+form p {color:white;
+margin-top: 40px;
+	width: 50%;
+margin: 0 auto;
+	margin-bottom: 20px;
+}
 }
 
 .hero {
@@ -325,7 +341,13 @@ a.order {
     -ms-flex: 1;
     flex: 1;
   }
+	form { margin-top: 60px;}
 
+input, textarea {
+	width: 80%;
+	padding: 20px;
+	  font-family: 'Space Mono', sans-serif;
+	}
   .block50 img {
     max-width: 100%;
     margin: 20px 0;
@@ -417,6 +439,7 @@ a.order {
 
 .lightbox {
 	/** Default lightbox to hidden */
+	font-family: space mono;
 	display: none;
 
 	/** Position and style */
@@ -430,11 +453,12 @@ a.order {
 	background: rgba(0,0,0,0.8);
 }
 
-.lightbox img {
+.lightbox svg {
 	/** Pad the lightbox image */
-	max-width: 90%;
-	max-height: 80%;
-	margin-top: 2%;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	width: 40px;
 }
 
 .lightbox:target {
@@ -445,7 +469,92 @@ a.order {
 	display: block;
 }
 
+form { margin-top: 60px;}
+
 input, textarea {
-	width: 320px;
-	padding: 10px;
+	width: 50%;
+	padding: 20px;
+	  font-family: 'Space Mono', sans-serif;
+
+}
+
+input.order {
+    color: white;
+    background-color: black;
+    border: 0;
+	cursor: pointer;
+
+}
+
+form p {color:white;
+margin-top: 40px;
+	width: 80%;
+margin: 0 auto;
+	margin-bottom: 20px;
+}
+@media (max-width: 479px) {
+  .body {
+    text-align: center;
+  }
+
+  .container {
+    margin-top: 10px;
+  }
+
+  .text-block {
+    padding-top: 3px;
+    padding-right: 4px;
+    padding-left: 0px;
+    background-color: transparent;
+    color: #333;
+    font-size: 14px;
+  }
+
+  .div-block {
+    width: 100%;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+  }
+	form { margin-top: 60px;}
+
+input, textarea {
+	width: 80%;
+	padding: 20px;
+	  font-family: 'Space Mono', sans-serif;
+	}
+  .block50 img {
+    max-width: 100%;
+    margin: 20px 0;
+  }
+
+  .footer {
+    padding-bottom: 0px;
+  }
+
+  .img {
+    margin-bottom: 29px;
+  }
+
+  .image {
+    width: 280px;
+  }
+
+  .item {
+    width: 100%;
+  }
+
+  .footertxt {
+    margin-bottom: 0px;
+    font-size: 14px;
+  }
+
+  .description {
+    margin-top: 0px;
+  }
+
+  .block50 {
+    width: 90%;
+  }
 }
