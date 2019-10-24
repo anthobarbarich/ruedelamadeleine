@@ -13,8 +13,30 @@
 <p class="content-txt">{{.Params.description}}</p><br>
 <p class="price">{{.Params.prix}}</p><br>
 		 <a class="order" href="mailto:claranoirhomme@gmail.com?subject=Je suis intéressé par {{.Params.titre}}">Commander</a><br><br><br><br>
+		 
+<!-- thumbnail image wrapped in a link -->
+<a href="#img1">
+  <img src="http://insomnia.rest/images/screens/main.png" class="thumbnail">
+</a>
+
+
 		 <a href="/">← Go Back</a>
 	</div>
-	  
+	<!-- lightbox container hidden with CSS -->
+<div  class="lightbox" id="img1">
+  <form action="">
+  First name:<br>
+  <input type="text" name="firstname" value="Mickey">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Mouse">
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+<a href="#_">
+  <img src="http://insomnia.rest/images/screens/main.png">
+</a>
+</div>
+<p class="italic small">Image credit: Me</p>  
   </div>
 {{ partial "footer.html" . }}
