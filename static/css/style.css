@@ -396,6 +396,7 @@ input, textarea {
     outline: none;
     /** Unhide lightbox **/
     display: block;
+	position: absolute;
 }
 form {
     margin-top: 60px;
