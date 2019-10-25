@@ -26,4 +26,4 @@ fields:
   config: {}
   label: galerie
 pages:
-- content/about.md
+- content/a-propos.md
