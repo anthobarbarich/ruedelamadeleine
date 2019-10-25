@@ -5,8 +5,8 @@ text = ""
 title = "process"
 type = "process"
 [[step]]
-description = "Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêtement et les mettre sur papier, ça permet de les rappeler."
-nom = ""
+description = ""
+nom = "Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêtement et les mettre sur papier, ça permet de les rappeler."
 photo = ""
 [[step]]
 description = "L’idée : tout d’abord, il faut avoir une (bonne) idée de modèle\n\nLa création : il faut alors créer un patron, le dessiner, le découper, le tester (pour ça, on fait généralement un test, une \"toile d’essai\") et généralement, l’adapter.\n\nLe tissu : ensuite, il faut trouver le tissu qui correspond au projet."
