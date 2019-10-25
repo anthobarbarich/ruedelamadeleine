@@ -21,7 +21,7 @@ description = "Ça c’est pour la conception du vêtement, mais il y a aussi pl
 nom = "3. Promotion & Communication"
 photo = "/uploads/IMG_9463.JPG"
 [[step]]
-description = "Voilà donc ma réponse pour ceux qui pensent que lorsque je couds une pièce en trois heures, je peux la vendre à 30€ (et encore, on n’a pas parlé du coût du travail en Belgique qui est loin de 10€/h).\n\nBref, impossible de comprendre comment on peut vendre un t-shirt à 10€ avec tout ce travail derrière… A moins d’utiliser les gens qui font ce travail comme des machines. Si je désirai produire en grandes quantités le même modèle, je pourrais faire des économies de temps. Toutefois, l’idée n’est pas de devenir une machine moi-même \n\nCe que je propose ici, ce sont donc des vêtements que j’ai conçus et cousus. C’est des vêtements que je couds comme si je les faisais pour moi, en me réjouissant à chaque étape de voir le produit fini et de le voir porté.\n"
+description = "Voilà donc ma réponse pour ceux qui pensent que lorsque je couds une pièce en trois heures, je peux la vendre à 30€ (et encore, on n’a pas parlé du coût du travail en Belgique qui est loin de 10€/h).\n\nBref, impossible de comprendre comment on peut vendre un t-shirt à 10€ avec tout ce travail derrière… A moins d’utiliser les gens qui font ce travail comme des machines. Si je désirai produire en grandes quantités le même modèle, je pourrais faire des économies de temps. Toutefois, l’idée n’est pas de devenir une machine moi-même.\n\nCe que je propose ici, ce sont donc des vêtements que j’ai conçus et cousus. C’est des vêtements que je couds comme si je les faisais pour moi, en me réjouissant à chaque étape de voir le produit fini et de le voir porté.\n"
 nom = ""
 photo = ""
 
