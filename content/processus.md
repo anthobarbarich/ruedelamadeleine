@@ -2,8 +2,8 @@
 galerie = []
 photo = ""
 text = ""
-title = "processus"
-type = "processus"
+title = "process"
+type = "process"
 [[step]]
 description = "L’idée : tout d’abord, il faut avoir une (bonne) idée de modèle\n\nLa création : il faut alors créer un patron, le dessiner, le découper, le tester (pour ça, on fait généralement un test, une \"toile d’essai\") et généralement, l’adapter.\n\nLe tissu : ensuite, il faut trouver le tissu qui correspond au projet."
 nom = "1. Conception du vêtement"
