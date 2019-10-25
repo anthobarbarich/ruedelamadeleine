@@ -1,5 +1,5 @@
 +++
-introtxt = "handmade apparel confectioned in Liège"
+introtxt = "vêtements cousus à la main à Liège, Belgique"
 [[vetement]]
 description = "Ensemble mariage "
 featured = false
