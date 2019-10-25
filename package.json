@@ -1,0 +1,22 @@
+{
+  "name": "rdlm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthobarbarich/ruedelamadeleine.git"
+  },
+  "author": "anthobarbarich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthobarbarich/ruedelamadeleine/issues"
+  },
+  "homepage": "https://github.com/anthobarbarich/ruedelamadeleine#readme",
+  "dependencies": {
+    "gulp-cli": "^2.2.0"
+  }
+}

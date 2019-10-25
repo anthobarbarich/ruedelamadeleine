@@ -414,7 +414,7 @@ input.order {
     border: 0;
     cursor: pointer;
 	border-radius: 0;
-	padding: 0;
+	padding: 30px;
 }
 form p {
     color: white;
@@ -424,6 +424,23 @@ form p {
     margin-bottom: 20px;
 }
 
+.thumbs-box.flex {
+	display: flex;
+    justify-content: center;
+	width: 100%;
+	flex-flow: wrap;
+	margin-top: 30px;
+}
+
+.thumbs-box.flex img {
+    justify-content: center ;
+	max-width: auto;
+	margin-bottom: 30px;
+}
+.block50.left {
+    position: sticky;
+    top: 20px;
+}
 @media (max-width: 479px) {
 .body {
     text-align: center;
@@ -438,6 +455,10 @@ form p {
     background-color: transparent;
     color: #333;
     font-size: 14px;
+}
+	.block50.left {
+    position: relative;
+    top: 20px;
 }
 .div-block {
     width: 100%;
