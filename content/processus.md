@@ -5,7 +5,7 @@ text = ""
 title = "process"
 type = "process"
 [[step]]
-description = "Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêtement et les mettre sur papier, ça me permet de les rappeler."
+description = "Il y a plein d’étapes qui sont nécessaires à la réalisation d’un vêtement et les mettre sur papier, ça permet de les rappeler."
 nom = ""
 photo = ""
 [[step]]
