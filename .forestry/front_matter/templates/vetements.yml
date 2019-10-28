@@ -29,11 +29,13 @@ fields:
   config: {}
   label: gallerie
 pages:
+- content/shop/no33-bomber-roses.md
+- content/shop/no6-kimono.md
+- content/shop/no28-robe-marine.md
 - content/shop/no30-pantalon-argent.md
 - content/shop/no30-pantalon-bleu.md
 - content/shop/no33-bomber-jouy.md
 - content/shop/no24-robe-chemise.md
-- content/shop/no33-bomber-roses.md
 - content/shop/no28-robe-lignee.md
 - content/shop/no10-sweat-leger.md
 - content/shop/no10-sweat-klein.md
@@ -42,5 +44,3 @@ pages:
 - content/shop/no33-bomber-carres.md
 - content/shop/no33-bomber-monde.md
 - content/shop/no1-manteau-neoprene.md
-- content/shop/no6-kimono.md
-- content/shop/no28-robe-marine.md
