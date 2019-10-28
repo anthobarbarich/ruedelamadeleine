@@ -1,6 +1,6 @@
 +++
 galerie = []
-photo = "/uploads/no33-bomber-jouy-06.jpg"
+photo = "/uploads/IMG_0689.JPG"
 text = ""
 title = "merci"
 
