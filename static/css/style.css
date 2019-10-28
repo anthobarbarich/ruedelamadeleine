@@ -209,7 +209,7 @@ a.order {
     align-items: flex-start;
     margin-top: 70px;
 }
-.flex:nth-child(even) {
+.flex:nth-child(odd) {
     flex-direction: row-reverse;
     text-align: right;
 }
