@@ -14,6 +14,9 @@ footer, main, nav, summary {
 s  [hidden] {
     display: none;
 }
+h2 {
+line-height: 1.5em;
+}
 a {
     background-color: transparent;
 }
