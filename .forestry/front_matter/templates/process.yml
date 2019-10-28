@@ -45,4 +45,4 @@ fields:
   label: type
   default: process
 pages:
-- content/processus.md
+- content/process.md
