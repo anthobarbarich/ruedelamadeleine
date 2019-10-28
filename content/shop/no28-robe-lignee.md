@@ -3,6 +3,6 @@ description = "La robe n°28 est une robe t-shirt simple avec une ceinture. Vers
 gallerie = []
 photo = "/uploads/no28-robe-lignée-01.jpg"
 prix = "80"
-titre = "N°28 - Robe - Lignée"
+titre = "N°28 - Robe lignée"
 
 +++
