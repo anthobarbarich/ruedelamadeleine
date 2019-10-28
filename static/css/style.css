@@ -354,6 +354,10 @@ input, textarea {
     margin-left: auto;
     margin-right: auto;
 }
+
+.minilog {
+	margin-top:40px;
+}
  @keyframes spin {
  0% {
  transform: rotate(0deg);
