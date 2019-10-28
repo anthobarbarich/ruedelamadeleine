@@ -16,7 +16,7 @@
     <br>
     <br>
     <br>
-    <a href="/">← Go Back</a> </div>
+    <a href="/">← Retour</a> </div>
   <div class="block50">
     <div class="thumbs-box flex">{{ range .Params.gallerie }} {{ with ($.Site.GetPage (path.Dir .)).Resources.GetMatch (path.Base .) }} {{ $r := .Resize "400x q80" }} <img src="{{ $r.RelPermalink }}"> 
 	
@@ -29,7 +29,7 @@
   
   <!-- lightbox container hidden with CSS -->
   <div class="lightbox" id="img1">
-    <form name="commande" method="POST" data-netlify="true">
+    <form name="commande" method="POST" data-netlify="true" action="/merci">
       <br>
       <p>Les pièces n'étant réalisées que sur commande, la fonctionnalité d'achat direct en ligne n'est pas disponible. Suite à ce message, je vous recontacterai pour avoir les détails nécéssaires à la réalisation de la pièce. Merci !</p>
       <br>
