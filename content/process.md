@@ -2,7 +2,7 @@
 galerie = []
 photo = ""
 text = ""
-title = "process"
+title = "processus"
 type = "process"
 [[step]]
 description = ""
