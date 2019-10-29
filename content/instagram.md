@@ -1,9 +1,8 @@
 +++
-draft = true
 galerie = []
 photo = ""
-text = "page instagram"
+text = ""
 title = "instagram"
 
 +++
-[instagram](https://www.instagram.com/ruedelamadeleine.be/)
+Voici la page [instagram](https://www.instagram.com/ruedelamadeleine.be/) de rue de la madeleine!
