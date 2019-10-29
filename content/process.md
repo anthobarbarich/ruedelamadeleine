@@ -13,7 +13,7 @@ description = "Tout d’abord, il faut avoir une (bonne) idée de modèle. \n\nI
 nom = "1. Conception du vêtement"
 photo = "uploads/IMG_9373.JPG"
 [[step]]
-description = "Une fois qu’on a un patron définitif, on peut découper le tissu.\nEnsuite, on passe enfin à l’étape couture (surfilage, assemblage, finitions, etc.)."
+description = "Une fois qu’on a un patron définitif, on peut découper le tissu. Ensuite, on passe enfin à l’étape couture. L’assemblage, le surfilage, les finitions et tous les détails, ça prend du temps ! Pour prendre un exemple concret, il me faut au moins cinq heures pour réaliser le bomber n°33 car il s’agit d’une pièce avec beaucoup de détails. Il faut en effet compter 1h pour découper toutes les pièces, 45 minutes pour réaliser les poches, 2h pour assembler la veste, le col, les poignets et la ceinture (dans lesquels je place des élastiques), 1h15 pour assembler la doublure et la monter sur la veste et enfin 30 minutes pour les finitions, dont la pose de l’étiquette."
 nom = "2. Couture"
 photo = "/uploads/IMG_9377.JPG"
 [[step]]
