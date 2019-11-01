@@ -34,12 +34,15 @@
       <p>Les pièces n'étant réalisées que sur commande, la fonctionnalité d'achat direct en ligne n'est pas disponible. Suite à ce message, je vous recontacterai pour avoir les détails nécessaires à la réalisation de la pièce. Merci !</p>
       <br>
       <input type="text" name="lastname" placeholder="Votre Nom">
-      <br>
+		      <br>
       <br>
       <input type="email" name="mail" placeholder="Votre adresse e-mail">
       <br>
+      <br>      
+		<input type="text" name="piece" value="Pièce : {{.Params.titre}}">
       <br>
-      <textarea name="piece" rows="6" columns="10">Bonjour, je suis intéressé(e) par la pièce {{.Params.titre}}, puis-je vous la commander ? Merci</textarea>
+      <br>
+      <textarea name="message" rows="6" columns="10">Bonjour, je suis intéressé(e) par la pièce {{.Params.titre}}, puis-je vous la commander ? Merci</textarea>
       <br>
       <br>
       <input type="submit" class="order" value="envoyer">
