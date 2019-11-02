@@ -26,5 +26,5 @@ fields:
   config: {}
   label: galerie
 pages:
-- content/merci.md
 - content/about.md
+- content/merci.md
