@@ -18,10 +18,10 @@
   "@context": "https://schema.org/",
   "@type": "Product",
   "name": "{{.Params.titre}}",
-  "image": [
-    "https://ruedelamadeleine.be{{.Params.photo}}"
-   ],
+  "image": "https://ruedelamadeleine.be{{.Params.photo}}",
   "description": "{{.Params.description}}",
+  "sku": "0446310786",
+  "mpn": "925872",
   "brand": {
     "@type": "Thing",
     "name": "rue de la madeleine"
@@ -30,21 +30,31 @@
     "@type": "Review",
     "reviewRating": {
       "@type": "Rating",
-      "ratingValue": "4",
+      "ratingValue": "5",
       "bestRating": "5"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Anthony Barbarich"
+    }
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
-    "reviewCount": "3"
+    "reviewCount": "4"
   },
   "offers": {
     "@type": "Offer",
-    "url": "{{ .Permalink }}",
+    "url": "{{.Permalink}}",
     "priceCurrency": "EUR",
     "price": "{{.Params.prix}}",
     "priceValidUntil": "2020-11-05",
+    "itemCondition": "https://schema.org/UsedCondition",
     "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "rue de la madeleine"
+    }
   }
 }
 </script>
