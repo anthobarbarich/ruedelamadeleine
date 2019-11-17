@@ -12,7 +12,43 @@
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
   <script type="text/javascript">WebFont.load({  google: {    families: ["Space Mono:regular"]  }});</script>
   <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
-  <link href="/images/fvico-rdlm.png" rel="shortcut icon" type="image/x-icon"></head>
+  <link href="/images/fvico-rdlm.png" rel="shortcut icon" type="image/x-icon">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "{{.Params.titre}}",
+  "image": [
+    "https://ruedelamadeleine.be{{.Params.photo}}"
+   ],
+  "description": "{{.Params.description}}",
+  "brand": {
+    "@type": "Thing",
+    "name": "rue de la madeleine"
+  },
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4",
+      "bestRating": "5"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "3"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "{{ .Permalink }}",
+    "priceCurrency": "EUR",
+    "price": "{{.Params.prix}}",
+    "priceValidUntil": "2020-11-05",
+    "availability": "https://schema.org/InStock",
+  }
+}
+</script>
+</head>
 <body class="body">
   <div class="hero"><a href="/"><img src="/images/suiss.JPG" width="307" srcset="/images/suiss-p-500.jpeg 500w, /images/suiss.JPG 646w" sizes="(max-width: 479px) 100vw, 307px" alt="" class="image"></a>
 	      <div class="text-block">Vêtements cousus main à Liège</div>
