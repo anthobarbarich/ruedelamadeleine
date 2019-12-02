@@ -29,6 +29,7 @@ fields:
   config: {}
   label: gallerie
 pages:
+- content/shop/no5-trousse-jouy.md
 - content/shop/no4-tote-bag-velours.md
 - content/shop/no5-trousse-velours.md
 - content/shop/no33-bomber-roses.md
