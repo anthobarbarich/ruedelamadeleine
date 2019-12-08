@@ -239,11 +239,16 @@ a.order {
     color: #fff;
     font-size: 18px;
 }
+
 .link {
     border-bottom: 1px solid #fff;
     color: #fff;
     text-decoration: none;
 }
+.link:visited {
+    color: #fff;
+}
+
 .description {
     display: block;
     margin-top: 7px;
