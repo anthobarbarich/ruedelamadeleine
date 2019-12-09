@@ -29,6 +29,7 @@ fields:
   config: {}
   label: gallerie
 pages:
+- content/shop/no4-tote-bag-olivier.md
 - content/shop/no3-bandeau-marine.md
 - content/shop/no3-bandeau-lilas.md
 - content/shop/no3-bandeau-gris.md
