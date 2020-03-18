@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -7,36 +7,131 @@
   </url>
   
   <url>
-    <loc>https://ruedelamadeleine.be/shop/bomber-toile-de-jouy/</loc>
+    <loc>https://ruedelamadeleine.be/shop/no1-manteau-neoprene/</loc>
   </url>
   
   <url>
-    <loc>https://ruedelamadeleine.be/shop/pantalon/</loc>
+    <loc>https://ruedelamadeleine.be/shop/no10-sweat-klein/</loc>
   </url>
   
   <url>
-    <loc>https://ruedelamadeleine.be/shop/robe-chemise/</loc>
+    <loc>https://ruedelamadeleine.be/shop/no10-sweat-leger/</loc>
   </url>
   
   <url>
-    <loc>https://ruedelamadeleine.be/shop/sweat-leger/</loc>
+    <loc>https://ruedelamadeleine.be/shop/no10-sweat-petrole/</loc>
   </url>
   
   <url>
-    <loc>https://ruedelamadeleine.be/shop/sweat/</loc>
+    <loc>https://ruedelamadeleine.be/shop/no14-veste-polar/</loc>
   </url>
   
   <url>
-    <loc>https://ruedelamadeleine.be/shop/test/</loc>
+    <loc>https://ruedelamadeleine.be/shop/no24-robe-chemise/</loc>
   </url>
   
   <url>
-    <loc>https://ruedelamadeleine.be/shop/veste-polar/</loc>
+    <loc>https://ruedelamadeleine.be/shop/no28-robe-bleu-nuit/</loc>
   </url>
   
   <url>
-    <loc>https://ruedelamadeleine.be/shop/</loc>
-    <priority>0</priority>
+    <loc>https://ruedelamadeleine.be/shop/no28-robe-lignee/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no3-bandeau-gris/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no3-bandeau-lilas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no3-bandeau-marine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no30-pantalon-argent/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no30-pantalon-bleu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no33-bomber-carres/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no33-bomber-fleuri/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no33-bomber-jouy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no33-bomber-monde/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no33-bomber-roses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no4-tote-bag-carte/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no4-tote-bag-nature-morte/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no4-tote-bag-olivier/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no4-tote-bag-taupe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no4-tote-bag-velours/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no5-trousse-fleurie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no5-trousse-jouy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no5-trousse-olivier/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no5-trousse-taupe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no5-trousse-velours/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no50-tshirt-bleu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no50bis-tshirt-paillete/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/no6-kimono/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/wp/</loc>
   </url>
   
   <url>
@@ -44,7 +139,15 @@
   </url>
   
   <url>
+    <loc>https://ruedelamadeleine.be/merci/</loc>
+  </url>
+  
+  <url>
     <loc>https://ruedelamadeleine.be/process/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruedelamadeleine.be/shop/</loc>
   </url>
   
 </urlset>
