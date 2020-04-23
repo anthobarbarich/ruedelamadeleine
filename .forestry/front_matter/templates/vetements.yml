@@ -29,6 +29,7 @@ fields:
   config: {}
   label: gallerie
 pages:
+- content/patrons/banane.md
 - content/shop/no1-manteau-neoprene.md
 - content/shop/no10-sweat-klein.md
 - content/shop/no10-sweat-leger.md
