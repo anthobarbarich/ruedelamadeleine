@@ -1,6 +1,6 @@
 +++
 galerie = []
-photo = "uploads/vesterose-p-500.jpeg"
+photo = "/uploads/94229326_10158170039404450_6279404974602452992_o.jpg"
 text = ""
 title = "about"
 
