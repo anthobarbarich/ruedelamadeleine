@@ -1,0 +1,18 @@
+{{ partial "header.html"}}
+  <div class="container w-container">
+ 
+	 {{range shuffle (where .Site.RegularPages "Section" "==" "patrons")}}
+    <a href="{{.Permalink}}" class="item">
+		{{ with .Params.photo }}
+    {{ with ($.Site.GetPage (path.Dir .)).Resources.GetMatch (path.Base .) }}
+        {{ $r := .Resize "300x q80" }}
+        <img src="{{ $r.RelPermalink }}" loading="lazy" width="300">
+    {{ end }}
+{{ end }}
+		<br>
+		<br>
+      <div class="description">{{ .Params.titre }}</div>
+    </a>
+	  {{end}}
+</div>
+{{ partial "footer.html"}}
