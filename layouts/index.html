@@ -1,8 +1,8 @@
 {{ partial "header.html" . }}
   </div>
   <div class="container w-container">
- 
-	 {{range shuffle (where .Site.RegularPages "Section" "==" "shop")}}
+     {{ $shop := where .Site.RegularPages "Section" "==" "shop" }}
+	 {{range $shop.ByDate.Reverse }}
     <a href="{{.Permalink}}" class="item">
 		{{ with .Params.photo }}
     {{ with ($.Site.GetPage (path.Dir .)).Resources.GetMatch (path.Base .) }}
