@@ -16,7 +16,7 @@ fields:
 - name: photo
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: photo
   description: Photo de la pièce
 - name: prix
@@ -28,6 +28,16 @@ fields:
   type: image_gallery
   config: {}
   label: gallerie
+- name: date
+  type: datetime
+  label: Date de publication
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 pages:
 - content/patrons/banane.md
 - content/patrons/bumbag.md
