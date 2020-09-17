@@ -1,6 +1,6 @@
 +++
 galerie = []
-photo = "/uploads/94003488_665735343998577_3924384886202302464_n.jpg"
+photo = "/uploads/en-train-de-coudre.jpg"
 text = ""
 title = "about"
 type = "static"
