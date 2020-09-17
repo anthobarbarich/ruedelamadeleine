@@ -10,6 +10,6 @@ type = "static"
 
 ### **Qui suis-je ?**
 
-Une meuf de 28 ans qui s’est lancée le challenge de ne plus acheter de vêtements neufs. Je n’ai pas de formation en stylisme mais en science politique (domaine dans lequel je travaille actuellement). Il y a quelques années, je me suis lancée dans la couture parce que j’avais un besoin de revenir à l’essentiel en faisant autre chose que de produire des choses avec mon cerveau et en créant de vrais trucs avec mes mains.
+Une meuf qui s’est lancé le challenge de ne plus acheter de vêtements neufs. Je n’ai pas de formation en stylisme mais en science politique (domaine dans lequel je travaille actuellement). Il y a quelques années, je me suis lancée dans la couture parce que j’avais un besoin de revenir à l’essentiel en faisant autre chose que de produire des choses avec mon cerveau et en créant de vrais trucs avec mes mains.
 
 Pour me contacter: [claranoirhomme@gmail.com](mailto:claranoirhomme@gmail.com)
