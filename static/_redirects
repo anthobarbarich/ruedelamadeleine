@@ -1,4 +1,4 @@
 # Redirects from what the browser requests to what we serve
 /masque            https://ruedelamadeleine.be/Masque-COVID19-ruedelamadeleine.be.pdf
-
+/patrons/banane/            http://mnrl.co/rdlm/boutique/patrons/banane
 
