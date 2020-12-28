@@ -39,7 +39,7 @@ fields:
     display_utc: false
   default: now
 pages:
-- content/patrons/banane.md
+- content/patrons/banane2.md
 - content/patrons/bumbag.md
 - content/shop/no1-manteau-neoprene.md
 - content/shop/no10-sweat-klein.md
